@@ -10,6 +10,7 @@ interface Replicable {
     }
 
     private Object replicate(Object arg) {
+        if (arg == null) return null;
         if (arg.getClass().isArray()) {
             int length = Array.getLength(arg);
             Object replica = Array.newInstance(arg.getClass().getComponentType(), length);
