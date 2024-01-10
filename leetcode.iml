@@ -15,6 +15,12 @@
       <sourceFolder url="file://$MODULE_DIR$/tests/0301-0400" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests/0401-0500" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests/core" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/0501-0600" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0601-0700" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0701-0800" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/0501-0600" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/0601-0700" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/0701-0800" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
